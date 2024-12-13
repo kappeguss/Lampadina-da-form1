@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.Form1.resources
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.csproj.GenerateResource.cache
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.AssemblyInfo.cs
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\es_pre_interrogazioni\bin\Debug\net6.0-windows\es_pre_interrogazioni.exe
+C:\Users\user\source\repos\es_pre_interrogazioni\bin\Debug\net6.0-windows\es_pre_interrogazioni.deps.json
+C:\Users\user\source\repos\es_pre_interrogazioni\bin\Debug\net6.0-windows\es_pre_interrogazioni.runtimeconfig.json
+C:\Users\user\source\repos\es_pre_interrogazioni\bin\Debug\net6.0-windows\es_pre_interrogazioni.dll
+C:\Users\user\source\repos\es_pre_interrogazioni\bin\Debug\net6.0-windows\es_pre_interrogazioni.pdb
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.dll
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\refint\es_pre_interrogazioni.dll
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.pdb
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\es_pre_interrogazioni.genruntimeconfig.cache
+C:\Users\user\source\repos\es_pre_interrogazioni\obj\Debug\net6.0-windows\ref\es_pre_interrogazioni.dll
